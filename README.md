@@ -1,6 +1,6 @@
 # Creating Publication Quality Graphics with ggplot2
 
-Teaching materials for the [Creating Publication-Quality Graphics with ggplot2](https://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html) lesson (R for Reproducible Scientific Analysis). Used at the [UAB Software Carpentry R Workshop](https://u-bds.github.io/2026-01-29-uab/) (Jan 29–30, 2026).
+Teaching materials for the [Creating Publication-Quality Graphics with ggplot2](https://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html) lesson (R for Reproducible Scientific Analysis). Used at the [U-BDS Software Carpentry R Workshop](https://u-bds.github.io/2026-01-29-uab/) (Jan 29–30, 2026).
 
 ## Contents
 
