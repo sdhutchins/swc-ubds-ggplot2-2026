@@ -1,17 +1,13 @@
-# teaching-template
+# Creating Publication Quality Graphics with ggplot2
 
-A lightweight repository template for organizing materials for workshops, tutorials, and teaching sessions.
-
-This template structures a single repo around four areas: **docs**, **code**, **data**, and **handouts**. Use one repository per workshop or topic; clone or copy this template as a starting point.
-
-It is not a curriculum, lesson plan, or software project. There is no prescribed order or pedagogy; add whatever materials fit the session.
+Teaching materials for the [Creating Publication-Quality Graphics with ggplot2](https://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2.html) lesson (R for Reproducible Scientific Analysis). Used at the [UAB Software Carpentry R Workshop](https://u-bds.github.io/2026-01-29-uab/) (Jan 29–30, 2026).
 
 ## Contents
 
-- **docs/** — Slide decks, documentation, or similar presentation files
-- **code/** — Example scripts, notebooks, or snippets used in the session
-- **data/** — Sample or demo datasets
-- **handouts/** — Reference sheets, cheat sheets, or printable handouts
+- **docs/** — Powerpoint that accompanied the lesson
+- **code/** — The R script created by the lesson
+- **data/** — Gapminder dataset used in the script
+- **output/** — Figures saved by the lesson script
 
 Each folder has a short README describing what belongs there.
 
