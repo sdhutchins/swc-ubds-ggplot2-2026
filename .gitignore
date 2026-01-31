@@ -1,0 +1,23 @@
+# R and RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.Rproj.user/
+
+# R package build / install (when developing packages)
+*.o
+*.so
+*.dll
+.Rinstignore
+
+# OAuth and secrets
+.httr-oauth
+
+# Knitr / R Markdown cache
+*_cache/
+.cache/
+
+# macOS
+.DS_Store
